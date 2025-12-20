@@ -1,84 +1,54 @@
-📊 SQL Server to Excel Dashboard Project
-📌 Project Overview
+SQL Server to Excel Dashboard Project
+Project Description
 
-This project shows how to connect SQL Server with Microsoft Excel and build an interactive dashboard for data analysis.
-The main goal is to extract data from SQL Server, analyze it in Excel, and present insights using charts and visuals.
+This project shows how to connect SQL Server with Microsoft Excel and create a dashboard for data analysis.
+Data is fetched directly from SQL Server and analyzed in Excel using charts and pivot tables.
 
-This project demonstrates real-world data analyst skills like database connection, data handling, and dashboard creation.
+Purpose
 
-🎯 Objectives
+Connect SQL Server data to Excel
 
-Connect SQL Server database to Excel
+Analyze data without manual copy-paste
 
-Import and refresh data directly from SQL Server
+Build a simple and clear dashboard
 
-Clean and organize data inside Excel
+Show practical data analyst skills
 
-Create a clear and interactive dashboard
+Tools Used
 
-Analyze business performance using visuals
+SQL Server
 
-🛠 Tools & Technologies Used
+SQL Server Management Studio (SSMS)
 
-SQL Server – Data storage and queries
+Microsoft Excel
 
-SQL Server Management Studio (SSMS) – Database management
+What I Did
 
-Microsoft Excel – Data analysis and dashboard creation
+Connected SQL Server database to Excel
 
-Excel Charts & Pivot Tables – Visualization
+Used SQL queries to extract data
 
-🔗 SQL Server to Excel Connection
+Cleaned and structured data in Excel
 
-Connected Excel to SQL Server using Get Data → From SQL Server
+Created an interactive dashboard using charts
 
-Used SQL queries to fetch required data
+Dashboard Highlights
 
-Enabled data refresh so the dashboard updates automatically when data changes
-
-📈 Dashboard Features
-
-Interactive charts and tables
-
-KPI indicators for quick insights
+Auto data refresh from SQL Server
 
 Sales and performance analysis
 
-Clean and simple layout for easy understanding
+Easy-to-read charts and visuals
 
-📂 Project Structure
-📁 SQL-Excel-Dashboard-Project
-│
-├── 📄 SQL_Queries.sql
-├── 📊 Excel_Dashboard.xlsx
-├── 📄 README.md
+Project Files
+- SQL queries
+- Excel dashboard file
+- README file
 
-📊 Key Insights
+Key Learnings
 
-Helps understand business trends quickly
+SQL Server and Excel integration
 
-Reduces manual work using live database connection
+Data analysis using Excel
 
-Improves decision-making using visual analysis
-
-🚀 How to Use This Project
-
-Open SQL Server and ensure the database is running
-
-Open the Excel file
-
-Refresh data connection
-
-View updated dashboard and insights
-
-👩‍💻 Skills Demonstrated
-
-SQL querying
-
-Database to Excel integration
-
-Data analysis
-
-Dashboard design
-
-Business insight generation
+Dashboard creation for business insights
